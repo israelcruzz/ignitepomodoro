@@ -28,7 +28,7 @@ const History = () => {
               Há cerca de 2 meses
             </td>
             <td className="border-t-[4px] border-t-[#202024]">
-            <Status color="yellow" />
+              <Status color="yellow" />
             </td>
           </tr>
 
