@@ -5,3 +5,27 @@
 .active{
     color: #00875F;
 }
+
+.yellow::before{
+    content: '';
+    width: 8px;
+    height: 8px;
+    border-radius: 50%;
+    background-color: #FBA94C;
+}
+
+.red::before{
+    content: '';
+    width: 8px;
+    height: 8px;
+    border-radius: 50%;
+    background-color: #AB232E;
+}
+
+.green::before{
+    content: '';
+    width: 8px;
+    height: 8px;
+    border-radius: 50%;
+    background-color: #04D361;
+}
